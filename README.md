@@ -1,33 +1,33 @@
 ## .NET Backend Developer | C# & ASP.NET Core
 
-Computer Science student focused on **backend engineering** and **API design** in the **.NET** ecosystem. 
-Building **RESTful APIs** backed by **relational databases**. 
-Skilled in **low-level programming (C/C++, Linux)** through academic and personal projects.
+Computer Science student at Adam Mickiewicz University focused on software engineering and backend development in the .NET ecosystem.
 
-- 🎓 **Seeking:** Summer 2026 Backend Internship
-- ✅ **Erasmus+ Eligible:** Available for international mobility (zero-cost grant)
+I build backend systems using C#, ASP.NET Core, Entity Framework Core, SQL, and REST APIs, with a focus on maintainable architecture and understanding the engineering decisions behind the code.
+
+Currently, I'm developing a production-ready web application where I explore real-world backend practices such as JWT authentication, Redis caching, resilience patterns, CI/CD, Docker, and deployment.
 
 ---
 
 ### 🛠️ Tech Skills
 
-- **Backend:** `C# / .NET` • `ASP.NET Core` • `EF Core, LINQ` • `JWT Auth`
-- **Databases:** `SQL (MS SQL Server)` • `Relational Data Modeling`
-- **Dev Tools:** `Docker / Docker Compose` • `Git / GitHub` • `Postman / Swagger`
-- **Systems:** `Linux, Bash` • `C / C++` • `Python`
+- **Backend:** `C#` • `.NET 9` • `ASP.NET Core` • `Entity Framework Core` • `LINQ` • `JWT/RBAC Auth` • `Serilog` • `FluentValidation`
+- **Caching & Resilience:** `Redis` • `Polly (Circuit Breaker)`
+- **Databases:** `MS SQL Server` • `SQL` • `Relational Data Modeling`
+- **DevOps & Tools:** `Docker / Docker Compose` • `CI/CD` • `Git / GitHub` • `Linux / Bash` • `Postman / Swagger`
+- **Testing:** `xUnit` • `Moq` • `AutoFixture` • `FluentAssertions`
 
 ---
 
 ### 🚀 Projects
 
-- **🛒 [Store Management API](https://github.com/Kierish/StoreApi)** — 
-Layered ASP.NET Core Web API with service-based business logic and relational data modeling using Entity Framework Core.
+- **🛒 [Store Management System (Full-Stack)](https://github.com/Kierish/StoreApp)** —
+Full-stack RESTful application built with **.NET 9** (Clean Architecture, Result Pattern) and **React 19 / Vite** (TanStack Query). Key highlights include custom **JWT/RBAC auth**, resilient distributed **Redis caching** (Polly Circuit Breaker), and automated **CI/CD with rollbacks**.
+
+- **🕷️ [Web Scrapers](https://github.com/Kierish/WebScrapers)** — 
+Dockerized web scraping system with automated data collection and parsing. 
 
 - **🐧 [Microshell](https://github.com/Kierish/Microshell)** — 
 POSIX-based command-line interpreter in C with process management, custom built-ins, and signal handling.
-
-- **🕷️ [Web Scrapers](https://github.com/Kierish/WebScrapers)** — 
-Dockerized web scraping system with automated data collection and parsing.
 
 ---
 
